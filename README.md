@@ -24,3 +24,15 @@ This project focuses on creating and managing a database system for an inventory
 - **SQL**: For database management and query execution.
 - **Draw.io**: For designing the ERD diagram.
 
+## Database Normalization
+This project also includes the normalization of data to ensure an efficient, scalable database structure. The normalization process reduced redundancy and improved data integrity by organizing data into the appropriate normal forms.
+
+### Normalization Process
+- **Unnormalized Form (UNF)**: Raw data that may contain redundancy.
+- **First Normal Form (1NF)**: Ensured atomicity by removing duplicate rows and repeating groups.
+- **Second Normal Form (2NF)**: Removed partial dependencies by separating data based on functional dependencies.
+- **Third Normal Form (3NF)**: Removed transitive dependencies, ensuring that non-key attributes are only dependent on the primary key.
+
+The **Excel file** (`COMP-1701_Fina1l_SQL_Competency_F-Database-Normalization-wp.xlsx`) provides detailed steps and examples of the normalization process.
+
+
