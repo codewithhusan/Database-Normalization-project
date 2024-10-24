@@ -3,7 +3,7 @@
 ## 📚Overview
 This project focuses on creating and managing a database system for an inventory and product management system, referred to as **BoxStore**. The database was designed and implemented using SQL, with an accompanying Entity Relationship Diagram (ERD) for visualization.
 
-!(https://github.com/user-attachments/assets/e04f9604-8ab6-4ec0-96ff-fe81cac7f6ba)
+(https://github.com/user-attachments/assets/e04f9604-8ab6-4ec0-96ff-fe81cac7f6ba)
 
 ## 🚀Key Features
 - **Database Creation**: The SQL script (`hk_0398817_boxstore.sql`) contains all necessary commands to create the tables and relationships for managing products, orders, and inventory.
